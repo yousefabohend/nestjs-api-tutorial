@@ -1,27 +1,13 @@
-# install yarn
+## Getting started
 
-# install npx
+First, install the dependencies using `npm install` or `yarn install`.
 
-# install prisma cli and prsima package
+Then, run the development server:
 
-# create docker image for postgres DB
+```bash
+yarn start
+# OR
+npm run start
+```
 
-# nest g module auth
-
-# nest g service auth
-
-# nest g controller auth
-
-# prisma migrate dev
-
-# prisma migrate deploy
-
-# install @nestjs/config
-
-# passport jwt Guard strategy Decorators
-
-# PactumJs for testing
-
-# dorenv-cli
-
-# npx dotenv -e .env.test -- prisma studio
+Then, open [http://localhost:3000](http://localhost:3000) with your browser to see the result (if it doesn't open automatically).
